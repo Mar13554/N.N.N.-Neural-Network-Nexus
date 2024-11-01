@@ -1,4 +1,6 @@
 Terms & Conditions (N.N.N. Neural Network Nexus Pre-Alpha V.0.1)
+Developers:
+Mar13554, HamirinTK
 
 Clarification:
 1. "We", "Us", or "Our" refers to the developers of N.N.N 
