@@ -1,3 +1,5 @@
+Outdated: Go to the newest releases for the latest version instead.
+
 Terms & Conditions (N.N.N. Neural Network Nexus Pre-Alpha V.0.1)
 Developers:
 Mar13554, HamirinTK
