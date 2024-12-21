@@ -1,6 +1,4 @@
-Outdated: Go to the newest releases for the latest version instead.
-
-Terms & Conditions (N.N.N. Neural Network Nexus Pre-Alpha V.0.1)
+Terms & Conditions (N.N.N. Neural Network Nexus)
 Developers:
 Mar13554, HamirinTK
 
@@ -19,7 +17,7 @@ Section 1, Usage:
 
 Section 2, Data & Privacy:
 	The data saved during use is manual; we do not save any data without the user's consent. The user is free to clear their local saved data at anytime.
-	The user is free to share any data (from the store.txt file) containing the parameters of the nodes online.
+	The user is free to share any data containing the parameters of the nodes online.
 	We do not have direct access to your data (from your use of our product); any data of yours that may be online is not our responsibility.
 
 Section 3, Modification:
