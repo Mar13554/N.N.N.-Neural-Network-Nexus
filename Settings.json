@@ -1,5 +1,0 @@
-{
-    "Num_Epochs": 3000,
-    "Time_Limit": 1200,
-    "Data_Files":["Success.json", "Ero1_4KB.json", "Nexus.json", "books1.json", "transcriptionYT1.json"]
-}
